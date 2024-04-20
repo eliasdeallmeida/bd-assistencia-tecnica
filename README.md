@@ -19,6 +19,10 @@ O diagrama foi projetado na ferramenta MySQL Workbench e pode ser acessado [aqui
 
 ![Diagrama entidade-relacionamento da assistência ténica](.github/assistencia_tecnica_eer_diagram.png)
 
+## Banco de dados
+
+Os comandos SQL para a criação do banco PostgreSQL e suas tabelas estão disponíveis [aqui](./src/main/resources/db/).
+
 ## Tecnologias
 - Java
 - Maven
