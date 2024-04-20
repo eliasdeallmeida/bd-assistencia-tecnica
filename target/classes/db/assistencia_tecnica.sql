@@ -1,4 +1,4 @@
-CREATE DATABASE eletronica WITH ENCODING='UTF8';
+CREATE DATABASE assistencia_tecnica WITH ENCODING='UTF8';
 
 
 
